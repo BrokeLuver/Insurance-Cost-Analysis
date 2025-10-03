@@ -4,7 +4,10 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2+-orange?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-**ВАЖНО** при просмотре проекта в Preview GitHub не отображаются важные графики, рекомендуется смотреть проект в среде **Google Colab**.
+**ВАЖНО** при просмотре проекта в Preview GitHub не отображаются важные графики, рекомендуется смотреть проект в среде **Google Colab**
+
+(https://colab.research.google.com/drive/142Iv-hLRJf1H2r2tyc9TmWO9QCt886B2?usp=sharing)
+
 Также, графики можно просмотреть во вкладке Issues данного репозитория
 
 ## Описание проекта
