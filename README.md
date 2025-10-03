@@ -8,7 +8,7 @@
 
 (https://colab.research.google.com/drive/142Iv-hLRJf1H2r2tyc9TmWO9QCt886B2?usp=sharing)
 
-Также, графики можно просмотреть во вкладке Issues данного репозитория
+Также, графики можно просмотреть в папке Plots в данном репозитории
 
 ## Описание проекта
 
