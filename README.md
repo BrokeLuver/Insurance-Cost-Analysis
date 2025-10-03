@@ -1,4 +1,4 @@
-# Insurance-Cost-Analysis
+# Анализ стоимости медицинского страхования
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2+-orange?logo=scikit-learn)
